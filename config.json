@@ -1,4 +1,4 @@
 {
-  "exit_timeout": 1,
+  "exit_timeout": 6,
   "start_timeout": 5
 }
